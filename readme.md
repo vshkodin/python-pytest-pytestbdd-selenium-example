@@ -2,8 +2,8 @@
 
 ##### CLone repo:
 ```
-git clone 
-cd 
+git clone https://github.com/vsshk/python-pytest-pytestbdd-selenium-example.git
+cd python-pytest-pytestbdd-selenium-example
 ```
 
 ##### Build Docker container:
